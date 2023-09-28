@@ -1,0 +1,16 @@
+body {
+  background-color: #ffa500;
+  color: #030712;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.title {
+  font-size: 64px;
+  text-align: center;
+  padding-top: 64px;
+}/*# sourceMappingURL=style.css.map */
